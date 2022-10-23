@@ -3,7 +3,7 @@
 ## 
 ![banner.](https://www.bbva.com/wp-content/uploads/2021/08/GettyImages-transferencias-internacionales-mapa-mundo-tierra-paises-economia-cib-finanzas-operaciones-1024x576.jpg)
 
-## <center>Tipos de malware y cómo <br>puedes eliminarlos</center>
+## <center>Tipos de malware y cómo puedes eliminarlos</center>
 
 
 ##### <center>Descubre qué tipos de software malicioso pueden atacar tu dispositivo y cómo protegerlo de ellos.</center>
@@ -23,8 +23,8 @@ ________________________________________________________________________________
  _ Seguro BBVA Allianz Cyber
 
 ```
-s
- ###### *02/11/2021*
+
+###### *02/11/2021*
 
 Un *malware* es todo **programa o código malicioso que ataca un dispositivo electrónico**, desde ordenadores a móviles o tabletas, con el objetivo de **dañar su sistema**, provocar un **mal funcionamiento del mismo** o **robar la información** alojada en él. Puede venir oculto en:
 
@@ -88,6 +88,7 @@ BBVA ayuda a sus clientes pymes y autónomos a proteger sus negocios de las cibe
 
 El seguro proporciona coberturas preventivas para incrementar la seguridad de la información de la empresa, así como asistencia legal, informática y de peritos informáticos en caso de pérdida o robo de datos y coberturas de daños propios como la pérdida de beneficios por paralización del negocio.  Además, presta el apoyo y asesoramiento de un equipo de especialistas en caso de reclamaciones por violación de datos, perjuicios por actos en medios o sanciones de protección de datos.
 
+##
 
 ![Logo BBVA.](https://image.pitchbook.com/2MYR3MYxb9zQT9q8GqscbJEGokj1623244148447_200x200)<center>**[Aviso legal](https://www.bbva.es/general/aviso-legal.html)**&nbsp; &nbsp; **[Cookies](https://www.bbva.es/general/cookies.html)**&nbsp; &nbsp; **[Datos personales](https://www.bbva.es/general/tratamiento-datos.html)**&nbsp; &nbsp; **[Informes legales](https://www.bbva.es/general/informes-legales.html)**&nbsp; &nbsp; **[Servicios de pago](https://www.bbva.es/general/estadisticas.html)**&nbsp; &nbsp; **[Tarifas](https://www.bbva.es/general/tarifas.html)**</center>
  
