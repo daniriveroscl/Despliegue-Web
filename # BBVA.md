@@ -28,7 +28,7 @@ ________________________________________________________________________________
 &nbsp;
 
 
- ###### &nbsp; &nbsp; *02/11/2021*
+ ###### *02/11/2021*
 
 Un *malware* es todo **programa o código malicioso que ataca un dispositivo electrónico**, desde ordenadores a móviles o tabletas, con el objetivo de **dañar su sistema**, provocar un **mal funcionamiento del mismo** o **robar la información** alojada en él. Puede venir oculto en:
 
@@ -54,6 +54,7 @@ En caso de que el dispositivo electrónico se vea infectado con un *malware*, pu
 * **Deja de funcionar correctamente** el antivirus.
 
 &nbsp;
+
 ![security.](https://www.bbva.es/content/dam/public-web/bbvaes/images/finanzas-vistazo/ef/ciberseguridad/2400x1600_Ultima-Hora-13.jpg.img.960.1635933878392.jpg)
 
 ## &nbsp;&nbsp;¿Cuáles son los principales objetivos que persiguen estos programas maliciosos?
@@ -90,6 +91,8 @@ Los hábitos de seguridad más importantes que debes poner en práctica para evi
 BBVA ayuda a sus clientes pymes y autónomos a proteger sus negocios de las ciberamenazas existentes en la red con herramientas como el seguro **[BBVA Allianz Cyber](https://www.bbva.es/empresas/productos/seguros/ciberseguro-proteccion-frente-a-ciberataques.html).**
 
 El seguro proporciona coberturas preventivas para incrementar la seguridad de la información de la empresa, así como asistencia legal, informática y de peritos informáticos en caso de pérdida o robo de datos y coberturas de daños propios como la pérdida de beneficios por paralización del negocio.  Además, presta el apoyo y asesoramiento de un equipo de especialistas en caso de reclamaciones por violación de datos, perjuicios por actos en medios o sanciones de protección de datos.
+
+
 ![Logo BBVA.](https://image.pitchbook.com/2MYR3MYxb9zQT9q8GqscbJEGokj1623244148447_200x200)<center>**[Aviso legal](https://www.bbva.es/general/aviso-legal.html)**&nbsp; &nbsp; **[Cookies](https://www.bbva.es/general/cookies.html)**&nbsp; &nbsp; **[Datos personales](https://www.bbva.es/general/tratamiento-datos.html)**&nbsp; &nbsp; **[Informes legales](https://www.bbva.es/general/informes-legales.html)**&nbsp; &nbsp; **[Servicios de pago](https://www.bbva.es/general/estadisticas.html)**&nbsp; &nbsp; **[Tarifas](https://www.bbva.es/general/tarifas.html)**</center>
  
 &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;**[Tablón de anuncios](https://www.bbva.es/general/tablon-anuncios.html)** &nbsp; **[Negocio responsable](https://www.bbva.es/general/negocio-responsable.html)**
