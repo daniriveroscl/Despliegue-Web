@@ -30,14 +30,10 @@ ________________________________________________________________________________
 Un *malware* es todo **programa o código malicioso que ataca un dispositivo electrónico**, desde ordenadores a móviles o tabletas, con el objetivo de **dañar su sistema**, provocar un **mal funcionamiento del mismo** o **robar la información** alojada en él. Puede venir oculto en:
 
 1. **Archivos adjuntos** en correos electrónicos fraudulentos.
-
-2. **Enlaces en SMS** que solicitan descargar aplicaciones o archivos.
-
-3. **Aplicaciones no oficiales** que han sido infectadas con este software.
-
-4. **Publicidad maliciosa** enmascarada en páginas web ilegítimas.
-
-5. **Actualizaciones de software solicitadas** para ver ciertos contenidos en páginas web.
+1. **Enlaces en SMS** que solicitan descargar aplicaciones o archivos.
+1. **Aplicaciones no oficiales** que han sido infectadas con este software.
+1. **Publicidad maliciosa** enmascarada en páginas web ilegítimas.
+1. **Actualizaciones de software solicitadas** para ver ciertos contenidos en páginas web.
 
 En caso de que el dispositivo electrónico se vea infectado con un *malware*, pueden detectarse **ciertas anomalías**, tales como:
 
