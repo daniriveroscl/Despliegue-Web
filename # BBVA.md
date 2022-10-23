@@ -92,7 +92,8 @@ El seguro proporciona coberturas preventivas para incrementar la seguridad de la
 
 ##
 
-![Logo BBVA.](https://image.pitchbook.com/2MYR3MYxb9zQT9q8GqscbJEGokj1623244148447_200x200)<center>**[Aviso legal](https://www.bbva.es/general/aviso-legal.html)**&nbsp; &nbsp; **[Cookies](https://www.bbva.es/general/cookies.html)**&nbsp; &nbsp; **[Datos personales](https://www.bbva.es/general/tratamiento-datos.html)**&nbsp; &nbsp; **[Informes legales](https://www.bbva.es/general/informes-legales.html)**&nbsp; &nbsp; **[Servicios de pago](https://www.bbva.es/general/estadisticas.html)**&nbsp; &nbsp; **[Tarifas](https://www.bbva.es/general/tarifas.html)**</center>
+# &nbsp; [BBVA]
+<center>**[Aviso legal](https://www.bbva.es/general/aviso-legal.html)**&nbsp; &nbsp; **[Cookies](https://www.bbva.es/general/cookies.html)**&nbsp; &nbsp; **[Datos personales](https://www.bbva.es/general/tratamiento-datos.html)**&nbsp; &nbsp; **[Informes legales](https://www.bbva.es/general/informes-legales.html)**&nbsp; &nbsp; **[Servicios de pago](https://www.bbva.es/general/estadisticas.html)**&nbsp; &nbsp; **[Tarifas](https://www.bbva.es/general/tarifas.html)**</center>
  
 **[Tablón de anuncios](https://www.bbva.es/general/tablon-anuncios.html)** &nbsp; **[Negocio responsable](https://www.bbva.es/general/negocio-responsable.html)**
 
