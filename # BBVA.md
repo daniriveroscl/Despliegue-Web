@@ -10,8 +10,6 @@
 
 &nbsp;
 
-&nbsp;
-
 [Ciberseguridad &nbsp;&nbsp;&nbsp;>](https://www.bbva.es/finanzas-vistazo/ciberseguridad.html) &nbsp;&nbsp;&nbsp; [Ataques informáticos  &nbsp;&nbsp;&nbsp; >](https://www.bbva.es/finanzas-vistazo/ciberseguridad/ataques-informaticos.html) &nbsp;&nbsp;&nbsp;Tipos de malware y cómo puedes eliminarlos
 
 &nbsp;
@@ -25,9 +23,7 @@ ________________________________________________________________________________
  _ Seguro BBVA Allianz Cyber
 
 ```
-&nbsp;
-
-
+s
  ###### *02/11/2021*
 
 Un *malware* es todo **programa o código malicioso que ataca un dispositivo electrónico**, desde ordenadores a móviles o tabletas, con el objetivo de **dañar su sistema**, provocar un **mal funcionamiento del mismo** o **robar la información** alojada en él. Puede venir oculto en:
@@ -71,7 +67,7 @@ En caso de que el dispositivo electrónico se vea infectado con un *malware*, pu
 * **Fines publicitarios**: menos peligroso, pero muy molesto, es el denominado malware publicitario o _adware_, un software que muestra anuncios no deseados en la pantalla del usuario, habitualmente a través de su navegador o de su cuenta de correo. También lo hace mediante ventanas emergentes o _pop-ups_.
 
 &nbsp;
-## &nbsp;&nbsp;¿Cómo puedes proteger tu dispositivo del malware?
+## ¿Cómo puedes proteger tu dispositivo del malware?
 &nbsp;
 
 Los hábitos de seguridad más importantes que debes poner en práctica para evitar la descarga y ejecución de un software malicioso en tus dispositivos son:
@@ -85,7 +81,7 @@ Los hábitos de seguridad más importantes que debes poner en práctica para evi
 
 &nbsp;
 
-## &nbsp;&nbsp;Seguro BBVA Allianz Cyber
+## Seguro BBVA Allianz Cyber
 &nbsp;
 
 BBVA ayuda a sus clientes pymes y autónomos a proteger sus negocios de las ciberamenazas existentes en la red con herramientas como el seguro **[BBVA Allianz Cyber](https://www.bbva.es/empresas/productos/seguros/ciberseguro-proteccion-frente-a-ciberataques.html).**
@@ -95,10 +91,10 @@ El seguro proporciona coberturas preventivas para incrementar la seguridad de la
 
 ![Logo BBVA.](https://image.pitchbook.com/2MYR3MYxb9zQT9q8GqscbJEGokj1623244148447_200x200)<center>**[Aviso legal](https://www.bbva.es/general/aviso-legal.html)**&nbsp; &nbsp; **[Cookies](https://www.bbva.es/general/cookies.html)**&nbsp; &nbsp; **[Datos personales](https://www.bbva.es/general/tratamiento-datos.html)**&nbsp; &nbsp; **[Informes legales](https://www.bbva.es/general/informes-legales.html)**&nbsp; &nbsp; **[Servicios de pago](https://www.bbva.es/general/estadisticas.html)**&nbsp; &nbsp; **[Tarifas](https://www.bbva.es/general/tarifas.html)**</center>
  
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;**[Tablón de anuncios](https://www.bbva.es/general/tablon-anuncios.html)** &nbsp; **[Negocio responsable](https://www.bbva.es/general/negocio-responsable.html)**
+**[Tablón de anuncios](https://www.bbva.es/general/tablon-anuncios.html)** &nbsp; **[Negocio responsable](https://www.bbva.es/general/negocio-responsable.html)**
 
 
 
-###### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Banco Bilbao Vizcaya Argentaria S.A. 2022
+###### Banco Bilbao Vizcaya Argentaria S.A. 2022
 
 &nbsp;
