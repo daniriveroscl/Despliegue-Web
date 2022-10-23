@@ -53,6 +53,8 @@ En caso de que el dispositivo electrónico se vea infectado con un *malware*, pu
 
 ![security.](https://www.bbva.es/content/dam/public-web/bbvaes/images/finanzas-vistazo/ef/ciberseguridad/2400x1600_Ultima-Hora-13.jpg.img.960.1635933878392.jpg)
 
+&nbsp;
+
 ## &nbsp;&nbsp;¿Cuáles son los principales objetivos que persiguen estos programas maliciosos?
 &nbsp;
 
